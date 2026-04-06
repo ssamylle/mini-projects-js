@@ -1,1 +1,1 @@
-# mini-projects-js
+# mini-projects-vue.js
